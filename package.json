@@ -1,0 +1,25 @@
+{
+  "name": "sarpur",
+  "version": "1.0.0",
+  "description": "Useful functions for accessing media from Icelandic National Radio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ruv",
+    "iceland",
+    "radio",
+    "rúv",
+    "ísland",
+    "sarpurinn",
+    "sarpur",
+    "útvarp"
+  ],
+  "author": "Valtýr Örn Kjartansson",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^2.5.2"
+  },
+  repository: "valtyrorn/sarpur"
+}
